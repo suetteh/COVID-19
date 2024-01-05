@@ -1,8 +1,10 @@
 # COVID-19
 Coronavirus disease (COVID-19), an infectious disease which disrupts the respiratory system and causes death in the worst condition. This diseases started to sweep across the globe in early 2020 and causes millions of lives lost especially the elderly group and individuals with underlying health issues. In this project, we attempted to use data visualization tools to:
 
-a) Visualize the progress of this disease across the world, how many lives have been affected. 
+a) Visualize the progress of this disease across the world, how many lives have been affected.
+
 b) Visualize the vaccination progress in all countries. 
+
 c) Investigate the correlation between case numbers and other factors collected (vaccination rate, stringency index, population density etc.)
 
 The analysis covers period between 24th February 2020 to 4th December 2021, across 6 continents and 224 locations around the world.
