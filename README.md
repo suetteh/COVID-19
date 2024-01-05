@@ -13,6 +13,7 @@ The analysis covers period between 24th February 2020 to 4th December 2021, acro
 The dataset is obtained from the [Our World in Data](https://ourworldindata.org/coronavirus). Our World in Data is a project of the Global Change Data Lab, a non-profit organization based in the United Kingdom.
 
 ### Tool and library
+This project was completed using python.
 Pandas, Numpy, Seaborn, Matplotlib and Plotly 
 
 ### Observations
